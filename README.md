@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/finexji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.finexji" height="30" width="40" /></a>
 <a href="https://instagram.com/shlok_kapade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shlok_kapade" height="30" width="40" /></a>
-<a href="https://discord.com/users/1250711274602496040/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/pUnfZ3d3q2"><img src="https://discord.com/api/guilds/1230843093645918218/widget.png?style=banner2"></a>
+<a href="https://discord.com/users/1250711274602496040/"><img src="https://discord.c99.nl/widget/theme-3/1250711274602496040.png"></a> <a href="https://discord.gg/pUnfZ3d3q2"><img src="https://discord.com/api/guilds/1230843093645918218/widget.png?style=banner2"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
