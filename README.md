@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **some day i will be best.**
 
+- 🤖 Made two discord bots  **Revoke and Zextra.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/finexji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.finexji" height="30" width="40" /></a>
