@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Finex</h1>
-<h3 align="center">A passionate about hacking , one day i will be known!</h3>
+<h3 align="center">A passionate about hacking !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finexji&label=Profile%20views&color=0e75b6&style=flat" alt="finexji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finexji" alt="finexji" /></a> </p>
 
-- 🔭 I’m currently working on **Revoke (my discord bot)**
+- 🔭 I’m currently working on **Revoke inc**
 
 - 🌱 I’m currently learning **hacking,coding,networking,and pentesting**
 
-- 📝 My first creation [https://ruralinstitute.netlify.app/](https://ruralinstitute.netlify.app/)
+- 📝 My first creation [https://revokeorg.netlify.app/](https://revokeorg.netlify.app/)
 
 - 💬 Ask me about **nothing(let me learn first)**
 
