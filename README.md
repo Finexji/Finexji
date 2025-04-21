@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://discord.c99.nl/widget/theme-3/1250711274602496040.png"></a> <a href="https://discord.gg/pUnfZ3d3q2"><img src="https://discord.com/api/guilds/1230843093645918218/widget.png?style=banner2"></a>
+<a href="https://discord.gg/pUnfZ3d3q2"><img src="https://discord.com/api/guilds/1230843093645918218/widget.png?style=banner2"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
