@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finexji&label=Profile%20views&color=0e75b6&style=flat" alt="finexji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finexji" alt="finexji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finexji&theme=algolia" alt="finexji" /></a> </p>
 
 - 🔭 I’m currently working on **Revoke inc**
 
