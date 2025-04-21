@@ -32,4 +32,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=finexji&show_icons=true&locale=en&layout=compact" alt="finexji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finexji&" alt="finexji" /></p>
+### 📈 GitHub Stats
+
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finexji&show_icons=true&theme=radical)
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
